@@ -30,5 +30,6 @@ Follow these steps to get YumNest up and running on your local machine.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/yumnest.git
+git clone https://github.com/arinahuque23/yumnest.git
+
 cd yumnest
